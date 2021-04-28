@@ -1,0 +1,8 @@
+[04-Dec-2014 04:34:22 Etc/GMT] PHP Warning:  require_once(php/connect.php): failed to open stream: No such file or directory in /home/lifewafb/public_html/php/sync.php on line 2
+[04-Dec-2014 04:34:22 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'php/connect.php' (include_path='.:/usr/local/altphp54/lib/php') in /home/lifewafb/public_html/php/sync.php on line 2
+[04-Dec-2014 04:37:01 Etc/GMT] PHP Warning:  require_once(php/connect.php): failed to open stream: No such file or directory in /home/lifewafb/public_html/php/sync.php on line 2
+[04-Dec-2014 04:37:01 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'php/connect.php' (include_path='.:/usr/local/altphp54/lib/php') in /home/lifewafb/public_html/php/sync.php on line 2
+[29-Aug-2015 13:21:43 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/dbconfig.php on line 2
+[29-Aug-2015 13:22:49 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/dbconfig.php on line 2
+[07-Sep-2015 06:13:11 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/dbconfig.php on line 2
+[13-Sep-2015 17:52:43 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/dbconfig.php on line 2

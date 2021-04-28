@@ -1,0 +1,166 @@
+[04-Jun-2015 02:11:09 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[04-Jun-2015 02:12:22 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[04-Jun-2015 16:57:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[04-Jun-2015 16:57:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[04-Jun-2015 16:57:21 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 5
+[05-Jun-2015 04:50:58 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[05-Jun-2015 05:57:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[05-Jun-2015 05:57:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[05-Jun-2015 05:57:17 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 5
+[06-Jun-2015 15:17:36 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[06-Jun-2015 15:18:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[06-Jun-2015 20:32:27 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[10-Jun-2015 07:44:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/verify.php:2) in /home/lifewafb/public_html/verify.php on line 3
+[10-Jun-2015 07:44:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/verify.php:2) in /home/lifewafb/public_html/verify.php on line 3
+[10-Jun-2015 07:44:04 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/verify.php:2) in /home/lifewafb/public_html/verify.php on line 32
+[11-Jun-2015 05:30:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[11-Jun-2015 17:45:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[11-Jun-2015 17:45:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[11-Jun-2015 17:45:49 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 5
+[16-Jun-2015 17:25:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[18-Jun-2015 15:17:39 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[20-Jun-2015 06:57:14 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[20-Jun-2015 09:21:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 3
+[20-Jun-2015 09:21:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 3
+[20-Jun-2015 09:21:18 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 92
+[20-Jun-2015 09:21:53 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/app.php:2) in /home/lifewafb/public_html/php/login/fbconfig.php on line 44
+[20-Jun-2015 19:31:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[20-Jun-2015 19:31:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 3
+[20-Jun-2015 19:31:28 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/logout.php:2) in /home/lifewafb/public_html/logout.php on line 5
+[30-Jun-2015 15:56:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 3
+[30-Jun-2015 15:56:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 3
+[30-Jun-2015 15:56:29 Etc/GMT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lifewafb/public_html/userLogin.php:2) in /home/lifewafb/public_html/userLogin.php on line 92
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[07-Jul-2015 00:33:58 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[13-Jul-2015 05:25:53 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[13-Jul-2015 05:25:53 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[13-Jul-2015 05:25:53 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[13-Jul-2015 05:25:54 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[13-Jul-2015 05:25:54 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[13-Jul-2015 05:25:54 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[13-Jul-2015 05:25:54 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[26-Jul-2015 01:31:38 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[28-Jul-2015 01:33:18 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[30-Jul-2015 18:56:53 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[02-Aug-2015 17:58:21 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[04-Aug-2015 17:02:39 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[04-Aug-2015 17:02:39 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[04-Aug-2015 17:02:40 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[04-Aug-2015 17:02:40 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[04-Aug-2015 17:02:40 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[04-Aug-2015 17:02:40 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[04-Aug-2015 17:02:40 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[04-Aug-2015 17:02:45 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[04-Aug-2015 17:02:45 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[04-Aug-2015 17:02:45 Etc/GMT] CSRF state token does not match one provided.
+[04-Aug-2015 17:02:45 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[04-Aug-2015 17:02:45 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[04-Aug-2015 17:02:45 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[05-Aug-2015 10:48:36 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[05-Aug-2015 10:48:36 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[05-Aug-2015 10:48:36 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[05-Aug-2015 10:48:36 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[05-Aug-2015 10:48:37 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[05-Aug-2015 10:48:37 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[05-Aug-2015 10:48:37 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[05-Aug-2015 10:49:06 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[05-Aug-2015 10:49:06 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[05-Aug-2015 10:49:06 Etc/GMT] CSRF state token does not match one provided.
+[05-Aug-2015 10:49:06 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[05-Aug-2015 10:49:06 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[05-Aug-2015 10:49:06 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[06-Aug-2015 15:58:22 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[06-Aug-2015 15:58:22 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[06-Aug-2015 15:58:22 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[06-Aug-2015 15:58:22 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[06-Aug-2015 15:58:22 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[06-Aug-2015 15:58:23 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[06-Aug-2015 15:58:23 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[06-Aug-2015 15:59:08 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[06-Aug-2015 15:59:08 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[06-Aug-2015 15:59:08 Etc/GMT] CSRF state token does not match one provided.
+[06-Aug-2015 15:59:08 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[06-Aug-2015 15:59:08 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[06-Aug-2015 15:59:08 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[11-Aug-2015 19:52:13 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[15-Aug-2015 19:37:15 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[15-Aug-2015 19:37:20 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[15-Aug-2015 19:37:20 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[15-Aug-2015 19:37:20 Etc/GMT] CSRF state token does not match one provided.
+[15-Aug-2015 19:37:20 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[15-Aug-2015 19:37:20 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[15-Aug-2015 19:37:20 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[15-Aug-2015 19:45:03 Etc/GMT] CSRF state token does not match one provided.
+[15-Aug-2015 19:45:04 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[15-Aug-2015 19:45:04 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[15-Aug-2015 19:45:04 Etc/GMT] CSRF state token does not match one provided.
+[15-Aug-2015 19:45:04 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[15-Aug-2015 19:45:04 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[15-Aug-2015 19:45:04 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Undefined index: code in /home/lifewafb/public_html/app.php on line 12
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 138
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Undefined variable: fbid in /home/lifewafb/public_html/app.php on line 171
+[16-Aug-2015 09:44:28 Etc/GMT] PHP Notice:  Undefined variable: fbuname in /home/lifewafb/public_html/app.php on line 172
+[16-Aug-2015 09:44:34 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[16-Aug-2015 09:44:34 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[16-Aug-2015 09:44:34 Etc/GMT] CSRF state token does not match one provided.
+[16-Aug-2015 09:44:34 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[16-Aug-2015 09:44:34 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[16-Aug-2015 09:44:34 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[16-Aug-2015 09:51:36 Etc/GMT] CSRF state token does not match one provided.
+[16-Aug-2015 09:51:37 Etc/GMT] PHP Notice:  Undefined index: username in /home/lifewafb/public_html/php/login/fbconfig.php on line 22
+[16-Aug-2015 09:51:37 Etc/GMT] PHP Notice:  Undefined index: email in /home/lifewafb/public_html/php/login/fbconfig.php on line 25
+[16-Aug-2015 09:51:37 Etc/GMT] CSRF state token does not match one provided.
+[16-Aug-2015 09:51:37 Etc/GMT] PHP Notice:  A session had already been started - ignoring session_start() in /home/lifewafb/public_html/app.php on line 5
+[16-Aug-2015 09:51:37 Etc/GMT] PHP Notice:  Undefined index: error in /home/lifewafb/public_html/app.php on line 8
+[16-Aug-2015 09:51:37 Etc/GMT] PHP Notice:  Use of undefined constant fblogin - assumed 'fblogin' in /home/lifewafb/public_html/app.php on line 136
+[16-Aug-2015 20:07:21 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
+[16-Aug-2015 20:07:27 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
+[16-Aug-2015 20:07:33 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
+[16-Aug-2015 20:07:40 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
+[16-Aug-2015 20:10:40 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
+[22-Aug-2015 13:38:50 Etc/GMT] PHP Warning:  mysql_connect(): Access denied for user 'lifewafb'@'localhost' (using password: YES) in /home/lifewafb/public_html/php/login/dbconfig.php on line 5
